@@ -1,0 +1,15 @@
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\Examples\example1_helloworld\bin\Debug\net6.0\example1_helloworld.exe
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\Examples\example1_helloworld\bin\Debug\net6.0\example1_helloworld.deps.json
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\Examples\example1_helloworld\bin\Debug\net6.0\example1_helloworld.runtimeconfig.json
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\Examples\example1_helloworld\bin\Debug\net6.0\example1_helloworld.dll
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\Examples\example1_helloworld\bin\Debug\net6.0\example1_helloworld.pdb
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\Examples\example1_helloworld\obj\Debug\net6.0\example1_helloworld.csproj.AssemblyReference.cache
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\Examples\example1_helloworld\obj\Debug\net6.0\example1_helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\Examples\example1_helloworld\obj\Debug\net6.0\example1_helloworld.AssemblyInfoInputs.cache
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\Examples\example1_helloworld\obj\Debug\net6.0\example1_helloworld.AssemblyInfo.cs
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\Examples\example1_helloworld\obj\Debug\net6.0\example1_helloworld.csproj.CoreCompileInputs.cache
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\Examples\example1_helloworld\obj\Debug\net6.0\example1_helloworld.dll
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\Examples\example1_helloworld\obj\Debug\net6.0\refint\example1_helloworld.dll
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\Examples\example1_helloworld\obj\Debug\net6.0\example1_helloworld.pdb
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\Examples\example1_helloworld\obj\Debug\net6.0\example1_helloworld.genruntimeconfig.cache
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\Examples\example1_helloworld\obj\Debug\net6.0\ref\example1_helloworld.dll
